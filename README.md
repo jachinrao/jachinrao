@@ -7,7 +7,6 @@
 🚀 **What I Do:**  
 - 🔍 **Risk Analytics**: Credit risk modelling, market risk modelling and non-life/life insurance risk assessment.
 - 📊 **Data Science & Machine Learning**: Statistical modeling, time series Analysis.
-- 📈 **Regulatory Framework**: IFRS 9, Basel III, and Solvency II.
 
 ---
 

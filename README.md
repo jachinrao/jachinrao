@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋 I'm Zhexin Rao  
 
-<!--
-**jachinrao/jachinrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Quantitative Risk Management | Statistical Modelling | Financial Data**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🚀 **What I Do:**  
+- 🔍 **Risk Analytics**: Credit risk modelling, market risk modelling and Non-life/life insurance risk assessment.
+- 📊 **Data Science & Machine Learning**: Statistical modeling, time series Analysis.
+- 📈 **Regulatory Framework**: IFRS 9, Basel III, and Solvency II.
+
+---
+
+## 🔧 Tech Stack  
+💻 **Programming:** Python, R
+💾 **Databases:** SQL & NoSQL
+⚙️ **Deployment:** Docker, Git 
+
+---
+
+## 📫 Connect with Me  
+💌 Email: [xinrao97@gmail.com](mailto:xinrao97@gmail.com)  
+📍 Location: Tartu, Estonia

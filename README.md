@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Zhexin Rao  
 
-🎯 **Quantitative Risk Management | Statistical Modelling | Financial Data**
-- 🎓 I'm a master's student at the University of Tartu, specializing in Actuarial and Financial Engineering, with interests in financial data analysis and risk management.
+🎯 **Quantitative Risk Management | Statistical Modelling | Financial Data**  
+🎓 I'm a master's student at the University of Tartu, specializing in Actuarial and Financial Engineering, with interests in financial data analysis and risk management.
 
 
 🚀 **What I Do:**  

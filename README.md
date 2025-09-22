@@ -19,4 +19,4 @@
 
 ## 📫 Connect with Me  
 💌 Email: [xinrao97@gmail.com](mailto:xinrao97@gmail.com)  
-📍 Location: Tartu, Estonia
+📍 Location: Tallinn, Estonia
